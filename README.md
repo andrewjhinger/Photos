@@ -5,11 +5,11 @@ Windows form application
 
 ###Concepts used:
 
-Text..
+Database Access Using .NET
 
 ###Functionality:
 
-Text..
+The form displays a photo and information about the photo. You're able to scroll through other photos in the database.
 
 
 ![alt tag](https://raw.github.com/andrewjhinger/Photos/master/Photos/Capture.JPG)
